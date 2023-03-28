@@ -2,5 +2,12 @@
     <string name="app_name">TipCalculator</string>
     <string name="tip_calculator_heading">Calculate Tip</string>
     <string name="service_cost">Cost of Service</string>
-    <string name="tip_amount">Tip amount: %s</string>
+    <string name="tip_amount">Tip amount: </string>
+    <string name="random_button_text">Generate Random Bill</string>
+    <string name="percent_10">10%</string>
+    <string name="percent_15">15%</string>
+    <string name="percent_18">18%</string>
+    <string name="percent_20">20%</string>
+    <string name="bill_amount">Bill amount: </string>
+    <string name="total">Total: </string>
 </resources>
